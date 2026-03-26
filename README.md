@@ -25,7 +25,7 @@ MAXTUI is a production-grade Python terminal UI framework with a Rust core, deli
 ### From Source
 
 ```bash
-git clone https://github.com/programmersd/maxtui.git
+git clone https://github.com/programmersd21/maxtui.git
 cd maxtui
 pip install maturin
 maturin develop --release
